@@ -1,0 +1,39 @@
+_repo: My-Ten-Years-Imprisonment_2792
+alternative_title: Mie prigioni. English
+contributor:
+  translator:
+    agent_name: Roscoe, Thomas
+    birthdate: 1791
+    deathdate: 1871
+    gutenberg_agent_id: '1026'
+    url: http://www.gutenberg.org/2009/agents/1026
+creator:
+  author:
+    agent_name: Pellico, Silvio
+    birthdate: 1789
+    deathdate: 1854
+    gutenberg_agent_id: '1025'
+    url: http://www.gutenberg.org/2009/agents/1025
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Silvio_Pellico
+    - http://en.wikipedia.org/wiki/Silvio_Pellico
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political prisoners -- Czech Republic -- Biography'
+- !lcsh 'Carbonari -- History -- Sources'
+- !lcsh 'Political prisoners -- Italy -- Biography'
+- !lcsh 'Pellico, Silvio, 1789-1854 -- Imprisonment'
+- !lcsh 'Milan (Italy) -- History -- 1535-1859 -- Sources'
+- !lcsh 'Authors, Italian -- 19th century -- Biography'
+- !lcc 'PQ'
+- !lcsh 'Spilberk (Brno, Czech Republic : Castle)'
+title: My Ten Years' Imprisonment
+url: http://www.gutenberg.org/ebooks/2792
