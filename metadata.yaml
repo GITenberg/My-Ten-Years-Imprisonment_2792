@@ -1,5 +1,5 @@
 _repo: My-Ten-Years-Imprisonment_2792
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mie prigioni. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1871
     gutenberg_agent_id: '1026'
     url: http://www.gutenberg.org/2009/agents/1026
+covers:
+- cover_type: archival
+  image_path: 2792-h/images/coverb.jpg
 creator:
   author:
     agent_name: Pellico, Silvio
@@ -19,6 +22,8 @@ creator:
     - http://it.wikipedia.org/wiki/Silvio_Pellico
     - http://en.wikipedia.org/wiki/Silvio_Pellico
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2792#My-Ten-Years-Imprisonment
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
