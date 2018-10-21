@@ -1,5 +1,5 @@
 _repo: My-Ten-Years-Imprisonment_2792
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Mie prigioni. English
 contributor:
   translator:
@@ -41,5 +41,6 @@ subjects:
 - !lcsh 'Authors, Italian -- 19th century -- Biography'
 - !lcc 'PQ'
 - !lcsh 'Spilberk (Brno, Czech Republic : Castle)'
+- GITenberg
 title: My Ten Years' Imprisonment
 url: http://www.gutenberg.org/ebooks/2792
